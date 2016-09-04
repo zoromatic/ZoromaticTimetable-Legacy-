@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dias -->
+    <array name="days_week">
+	    <item>Lunes</item>
+	    <item>Martes</item>
+	    <item>Miércoles</item>
+	    <item>Jueves</item>
+	    <item>Viernes</item>
+	    <item>Sábado</item>
+	    <item>Domingo</item>
+	</array>
+	
+    <string-array name="classes">
+        <item>Serbian language</item>
+        <item>English language</item>
+        <item>French language</item>
+        <item>Mathematics</item>
+        <item>Science</item>
+        <item>Music</item>
+        <item>Arts</item>
+        <item>Gymnastics</item>     
+        <item>Religious education</item>
+        <item>Civil education</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Biology</item>
+        <item>History</item>
+        <item>Geography</item>
+        <item>Hands in dough</item>
+        <item>National tradition</item>
+        <item>Technical education</item>
+        <item>Informatics</item>
+        <item>Class community</item>
+    </string-array>
+    
+</resources>

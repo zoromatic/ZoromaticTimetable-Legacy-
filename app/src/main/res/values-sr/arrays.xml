@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dias -->
+    <array name="days_week">
+	    <item>Понедељак</item>
+	    <item>Уторак</item>
+	    <item>Среда</item>
+	    <item>Четвртак</item>
+	    <item>Петак</item>
+	    <item>Субота</item>
+	    <item>Недеља</item>
+	</array>
+	
+    <string-array name="classes">
+        <item>Српски језик</item>
+        <item>Енглески језик</item>
+        <item>Француски језик</item>
+        <item>Математика</item>
+        <item>Природа и друштво</item>
+        <item>Музичка култура</item>
+        <item>Ликовна култура</item>
+        <item>Физичко васпитање</item> 
+        <item>Верска настава</item>
+        <item>Грађанско васпитање</item>
+        <item>Физика</item>
+        <item>Хемија</item>
+        <item>Биологија</item>
+        <item>Историја</item>
+        <item>Географија</item>
+        <item>Руке у тесту</item>
+        <item>Народна традиција</item>
+        <item>Техничко образовање</item>
+        <item>Информатика</item>
+        <item>Час одељенске заједнице</item>
+    </string-array>
+    
+</resources>
